@@ -4,6 +4,7 @@
 ![Build Status](https://github.com/nasa/earthdata-search/workflows/CI/badge.svg?branch=master)
 [![codecov](https://codecov.io/gh/nasa/earthdata-search/branch/master/graph/badge.svg?token=kIkZQ0NrqK)](https://codecov.io/gh/nasa/earthdata-search)
 [![Known Vulnerabilities](https://snyk.io/test/github/nasa/earthdata-search/badge.svg)](https://snyk.io/test/github/nasa/earthdata-search)
+[![CodeQL](https://github.com/KOSASIH/earthdata-search/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/earthdata-search/actions/workflows/codeql-analysis.yml)
 
 ## About
 Earthdata Search is a web application developed by [NASA](http://nasa.gov) [EOSDIS](https://earthdata.nasa.gov) to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
